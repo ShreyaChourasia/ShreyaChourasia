@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header.svg" width="100%" alt="Shreya Chourasia. An animated A* search finds the shortest path across a city street map." />
+  <img src="./header.svg" width="100%" alt="Shreya Chourasia. An animated A* search finds the shortest path across a city street map." />
 </p>
 
 <h3 align="center">Hi, I'm Shreya 👋</h3>
